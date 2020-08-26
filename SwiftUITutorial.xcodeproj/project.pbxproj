@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5225E30B24F7298700152B47 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5225E30A24F7298700152B47 /* CircleImage.swift */; };
 		528A481824F1ED5C0092308D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 528A481724F1ED5C0092308D /* AppDelegate.swift */; };
 		528A481A24F1ED5C0092308D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 528A481924F1ED5C0092308D /* SceneDelegate.swift */; };
 		528A481C24F1ED5D0092308D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 528A481B24F1ED5D0092308D /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5225E30A24F7298700152B47 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		528A481424F1ED5C0092308D /* SwiftUITutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		528A481724F1ED5C0092308D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		528A481924F1ED5C0092308D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				528A481724F1ED5C0092308D /* AppDelegate.swift */,
 				528A481924F1ED5C0092308D /* SceneDelegate.swift */,
 				528A481B24F1ED5D0092308D /* ContentView.swift */,
+				5225E30A24F7298700152B47 /* CircleImage.swift */,
 				528A481D24F1ED5F0092308D /* Assets.xcassets */,
 				528A482224F1ED5F0092308D /* LaunchScreen.storyboard */,
 				528A482524F1ED5F0092308D /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				528A481824F1ED5C0092308D /* AppDelegate.swift in Sources */,
+				5225E30B24F7298700152B47 /* CircleImage.swift in Sources */,
 				528A481A24F1ED5C0092308D /* SceneDelegate.swift in Sources */,
 				528A481C24F1ED5D0092308D /* ContentView.swift in Sources */,
 			);
